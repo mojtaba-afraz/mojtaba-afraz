@@ -23,5 +23,5 @@ And now I work as a Full-Stack Developer on startup projects
 # 📖 reverse engineering, computer science
 ```
 <br>
-<img src="https://komarev.com/ghpvc/?username=manolia&color=lightgray">
+<img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
 
