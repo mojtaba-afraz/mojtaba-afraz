@@ -31,16 +31,14 @@ And now I work as a Full-Stack Developer on startup projects
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![vue](https://img.shields.io/badge/-vue-000?&logo=vue)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
-![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
 ### IDEs:
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
