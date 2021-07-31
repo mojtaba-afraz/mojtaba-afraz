@@ -22,10 +22,12 @@ And now I work as a Full-Stack Developer on startup projects
 ```
 <br>
 <img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
+<br>
+
 
 <div align="center">
   
-  
+  ### Technology:
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
