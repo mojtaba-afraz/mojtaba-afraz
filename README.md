@@ -23,7 +23,7 @@ And now I work as a Full-Stack Developer on startup projects
 <br>
 <img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
 
-<p align="center">
+<div align="center">
 
 ### Technologies:
 
@@ -38,6 +38,9 @@ And now I work as a Full-Stack Developer on startup projects
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
+  
+    </div>
+
 
 ### Languages:
 
@@ -58,16 +61,11 @@ And now I work as a Full-Stack Developer on startup projects
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255)
 
 ### Databases:
-
-![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
 ### Stay in touch:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
-
-  </p>
