@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there , I Am Mojtaba Afraz 👋
+ </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mojtaba-afraz&show_icons=true&theme=dark"/> 
 </p>
