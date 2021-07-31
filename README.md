@@ -23,6 +23,7 @@ And now I work as a Full-Stack Developer on startup projects
 <br>
 <img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
 
+<p align="center">
 
 ### Technologies:
 
@@ -69,3 +70,4 @@ And now I work as a Full-Stack Developer on startup projects
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
 
+  </p>
