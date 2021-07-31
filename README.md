@@ -1,7 +1,4 @@
-<h1 align="center">
- Hi there , I Am Mojtaba Afraz  👋
-  [![Afraz](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)!]
- </h1>
+<h1 align="center">Hi there , I Am Mojtaba Afraz 👋</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mojtaba-afraz&show_icons=true&theme=dark"/> 
 </p>
