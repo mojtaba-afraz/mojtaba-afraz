@@ -16,9 +16,9 @@ And now I work as a Full-Stack Developer on startup projects
 
 ```diff
 @@advanced programming student@@
-+ living in Qom, Iran
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
++ living in Tehran , Iran
+! program engineer, web developer
+# 📖 computer science
 ```
 <br>
 <img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
