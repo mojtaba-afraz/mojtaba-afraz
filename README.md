@@ -34,6 +34,7 @@ And now I work as a Full-Stack Developer on startup projects
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  <br/>
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
