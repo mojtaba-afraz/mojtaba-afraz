@@ -35,11 +35,13 @@ And now I work as a Full-Stack Developer on startup projects
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
-![WebPack](https://img.shields.io/badge/-WebPack-000?&logo=WebPack)
 
 ### IDEs:
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
