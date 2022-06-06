@@ -11,9 +11,6 @@ And in fact, I love JavaScript
 I first started as a Front-End Developer and worked with and helped various companies
 And now I work as a Full-Stack Developer on startup projects
  </p>
- 
- <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
 ```diff
 @@advanced programming student@@
 + living in Tehran , Iran
