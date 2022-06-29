@@ -34,7 +34,7 @@ And now I work as a Full-Stack Developer on startup projects
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
   <br/>
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
