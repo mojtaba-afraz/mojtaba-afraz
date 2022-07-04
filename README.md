@@ -39,17 +39,15 @@ And now I work as a Full-Stack Developer on startup projects
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+  <br/>
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+
 
 ### IDEs:
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-
-### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
