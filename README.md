@@ -40,6 +40,8 @@ And now I work as a Full-Stack Developer on startup projects
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
   <br/>
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
