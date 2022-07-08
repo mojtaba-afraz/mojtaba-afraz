@@ -41,6 +41,8 @@ And now I work as a Full-Stack Developer on startup projects
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
   <br/>
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
