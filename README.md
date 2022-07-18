@@ -57,6 +57,6 @@ And now I work as a Full-Stack Developer on startup projects
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&no-bg=true"/>
     <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&theme=gruvbox&row=1" alt="mojtaba-afraz" />
 </p>
