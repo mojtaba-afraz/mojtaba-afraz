@@ -59,5 +59,5 @@ And now I work as a Full-Stack Developer on startup projects
 <br/>  
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&theme=gruvbox&row=1&column=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&theme=gruvbox&row=1&column=7"/>
 </p>
