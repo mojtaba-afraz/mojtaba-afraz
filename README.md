@@ -55,3 +55,6 @@ And now I work as a Full-Stack Developer on startup projects
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
+  
+  
+<img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&theme=gruvbox&row=1"/>
