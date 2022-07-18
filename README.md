@@ -10,7 +10,7 @@ I want to be honest with you, I love programming and problem solving
 And in fact, I love JavaScript
 I first started as a Front-End Developer and worked with and helped various companies
 And now I work as a Full-Stack Developer on startup projects
- </p>
+</p>
  
 ```diff
 @@advanced programming student@@
@@ -18,9 +18,6 @@ And now I work as a Full-Stack Developer on startup projects
 ! program engineer, web developer
 # 📖 computer science
 ```
-<br>
-<img src="https://komarev.com/ghpvc/?username=mojtaba-afraz&color=green">
-<br>
 
 
 <div align="center">
