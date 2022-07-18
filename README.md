@@ -60,3 +60,4 @@ And now I work as a Full-Stack Developer on startup projects
     <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&no-bg=true"/>
     <img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz&theme=gruvbox&row=1" alt="mojtaba-afraz" />
 </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojtaba-afraz" alt="mojtaba-afraz" /></a> </p>
