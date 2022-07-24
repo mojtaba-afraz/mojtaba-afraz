@@ -28,19 +28,18 @@ And now I work as a Full-Stack Developer on startup projects
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
   <br/>
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-
-
-### IDEs:
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm&logoColor=179EDC)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-
+  
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
 [![twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/mojtaba_afraz)
