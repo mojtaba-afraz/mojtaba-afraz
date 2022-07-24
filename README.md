@@ -43,6 +43,8 @@ And now I work as a Full-Stack Developer on startup projects
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
+[![twitter](https://img.shields.io/badge/-twitter-000)](https://twitter.com/mojtaba_afraz)
+
   
 <br/>  
   
