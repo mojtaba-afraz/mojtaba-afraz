@@ -41,7 +41,7 @@ And now I work as a Full-Stack Developer on startup projects
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
   
 ### Stay in touch:
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://linkedin.com/in/mojtaba-afraz)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/afraz.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/mojtaba-afraz)
 [![twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/mojtaba_afraz)
 
