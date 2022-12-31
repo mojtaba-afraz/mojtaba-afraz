@@ -39,6 +39,7 @@ And now I work as a Full-Stack Developer on startup projects
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/-nginx-000?&logo=nginx&logoColor=47A248)
   
 ### Stay in touch:
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/afraz.dev)
